@@ -7,7 +7,7 @@
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e55/)**
 <!-- run online end -->
-This example demonstrates how to show the Popup Control.
+This example demonstrates how to show a pop-up window.
 
 ## Overview
 
