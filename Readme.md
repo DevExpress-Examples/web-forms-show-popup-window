@@ -11,7 +11,7 @@ This example demonstrates various ways to display a default pop-up window.
 
 ## Overview
 
-The [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl) creates a default pop-up window when the control's [Windows](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl.Windows) collection is empty. You can change the default pop-up window's visibility on the server and client sides.
+The [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl) creates a default pop-up window when the control's [Windows](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl.Windows) collection is empty. You can change the default pop-up window's visibility on the server or client.
 
 Set the [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property to **true** on the server to display the default pop-up window when a client browser loads the page.
 
