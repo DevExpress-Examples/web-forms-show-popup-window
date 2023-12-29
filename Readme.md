@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Popup Control for ASP.NET Web Forms - How to show a pop-up window
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128565301/)**
-<!-- run online end -->
 This example demonstrates various ways to display a default pop-up window.
 
 ![Popup window](popup-window.png)
